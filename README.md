@@ -1,1 +1,5 @@
-# sales-performance-dashboard
+# 📊 Sales Performance Dashboard
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
